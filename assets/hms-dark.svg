@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+    <title id="title">Hospital administration, employee records and access controls</title><desc id="desc">Original illustrated profile artwork with slow CSS animations. Respects reduced motion.</desc>
+    <style>svg{--bg:#152235;--panel:#1d3049;--ink:#edf5ff;--muted:#afbed0;--line:#496581;--blue:#77afea;--soft:#223d5c;--cyan:#88c0d0;--warm:#ffb077;font-family:Arial,Helvetica,sans-serif}
+    .panel{fill:var(--panel);stroke:var(--line);stroke-width:1.5}.soft{fill:var(--soft)}
+    .outlined{stroke:var(--line);stroke-width:1.5}.line,.rule,.connector,.packet,.wave,.check,.shield,.spark{fill:none;stroke-linecap:round;stroke-linejoin:round}
+    .line{stroke:var(--blue);stroke-width:2.3}.rule{stroke:var(--line);stroke-width:2}
+    .connector{stroke:var(--line);stroke-width:2;stroke-dasharray:3 9}
+    .packet{stroke:var(--cyan);stroke-width:3;stroke-dasharray:12 88;animation:travel 12s linear infinite}
+    .ink{fill:var(--ink)}.muted{fill:var(--muted)}.accent{fill:var(--blue)}.blue-fill,.dot,.bar{fill:var(--blue)}
+    .cyan{fill:var(--cyan)}.warm{fill:var(--warm)}.on-blue{fill:var(--panel)}
+    .halo{fill:var(--soft);opacity:.7}.warm-halo{fill:var(--warm);opacity:.07}
+    .wave{stroke:var(--cyan);stroke-width:1.6;opacity:.26;animation:wave 16s ease-in-out infinite}.second{opacity:.13;animation-delay:-8s}
+    .float{animation:float 8s ease-in-out infinite}.float-slow{animation:float 11s ease-in-out infinite}
+    .pulse{animation:pulse 6s ease-in-out infinite}.bar{transform-box:fill-box;transform-origin:center bottom;animation:bar 10s ease-in-out infinite}
+    .bubble{fill:none;stroke:var(--line);stroke-width:1.5}.scan{stroke:var(--warm);stroke-width:2.5}
+    .scanner{animation:scan 12s ease-in-out infinite}.check{stroke:var(--cyan);stroke-width:4;stroke-dasharray:100;animation:check 12s ease-in-out infinite}
+    .shield{stroke:var(--blue);stroke-width:2.4}.spark{stroke:var(--cyan);stroke-width:2;animation:pulse 9s ease-in-out infinite}
+    @keyframes travel{from{stroke-dashoffset:100}to{stroke-dashoffset:-100}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+    @keyframes wave{50%{transform:translate(0,-9px)}}
+    @keyframes pulse{50%{opacity:.55}}
+    @keyframes bar{50%{transform:scaleY(.82)}}
+    @keyframes scan{0%,15%,100%{transform:translateY(0);opacity:.3}50%,75%{transform:translateY(78px);opacity:1}}
+    @keyframes check{0%,10%{stroke-dashoffset:100}35%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:100}}
+    @media(prefers-reduced-motion:reduce){.motion{animation:none!important}.scanner{transform:translateY(48px)}.check{stroke-dashoffset:0}}
+    </style>
+    <rect x="1" y="1" width="1198" height="238" rx="22" fill="#152235" stroke="#496581"/>
+    <ellipse cx="216" cy="132" rx="160" ry="98" class="halo"/><rect x="94" y="65" width="198" height="121" rx="12" class="panel" /><path d="M85 185h219M169 184v-40h44v40M119 95h18M119 118h18M249 95h18M249 118h18" class="line" /><rect x="170" y="76" width="43" height="43" rx="9" class="soft" /><path d="M191 87v22M180 98h22" class="line" /><path d="M314 127H491" class="connector" /><path d="M314 127H491" class="packet motion" pathLength="100" style="animation-delay:0s"/><path d="M741 127H934" class="connector" /><path d="M741 127H934" class="packet motion" pathLength="100" style="animation-delay:-5s"/><g class="float-slow motion"><rect x="509" y="42" width="219" height="157" rx="12" class="panel" /><rect x="519" y="52" width="199" height="24" rx="7" class="soft" /><circle cx="531" cy="64" r="3" class="dot" /><circle cx="543" cy="64" r="3" class="cyan" /><circle cx="555" cy="64" r="3" class="warm" /><path d="M519 85h199" class="rule" /><circle cx="535" cy="109" r="7" class="soft" /><path d="M552 106h143M552 114h119" class="rule" /><circle cx="535" cy="135" r="7" class="soft" /><path d="M552 132h143M552 140h119" class="rule" /><circle cx="535" cy="161" r="7" class="soft" /><path d="M552 158h143M552 166h119" class="rule" /></g><rect x="955" y="67" width="122" height="115" rx="19" class="soft" /><path d="M1016 87l33 11v25q0 29-33 44-33-15-33-44V98Z" class="shield" /><path d="M999 124l12 12 24-27" class="check motion" />
+    </svg>
