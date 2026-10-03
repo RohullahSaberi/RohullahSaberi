@@ -34,7 +34,10 @@ I'm a co-founder of [Aria Soft](https://ariasoft.co/) and a **Software Engineer 
 
 ## Selected work
 
-### Aria OMR
+Expand a project to see its illustration, details, and case study.
+
+<details>
+<summary><strong>Aria OMR</strong> — Examination software</summary>
 
 <a href="https://rohullah.ariasoft.co/projects/aria-omr/">
   <picture>
@@ -50,7 +53,10 @@ Examination software for reading multiple-choice answer sheets, calculating resu
 
 [Read the case study →](https://rohullah.ariasoft.co/projects/aria-omr/)
 
-### Educational Center Management System
+</details>
+
+<details>
+<summary><strong>Educational Center Management System</strong> — Education administration</summary>
 
 <a href="https://rohullah.ariasoft.co/projects/ecms/">
   <picture>
@@ -66,7 +72,10 @@ Desktop software for managing students, classes, finances, staff, and attendance
 
 [Read the case study →](https://rohullah.ariasoft.co/projects/ecms/)
 
-### Hospital Management System
+</details>
+
+<details>
+<summary><strong>Hospital Management System</strong> — Hospital administration</summary>
 
 <a href="https://rohullah.ariasoft.co/projects/hospital-management/">
   <picture>
@@ -81,6 +90,8 @@ An ASP.NET Core application for hospital administration, employee records, and a
 **C# · ASP.NET Core · MVC · EF Core · MySQL · Docker**
 
 [Read the case study →](https://rohullah.ariasoft.co/projects/hospital-management/)
+
+</details>
 
 I also worked with the team on [Kabul Code Lab's website](https://rohullah.ariasoft.co/projects/kabul-code-lab/) and [Shams School's website](https://rohullah.ariasoft.co/projects/shams-school/), contributing architecture, engineering direction, task assignment, and collaboration through GitHub.
 
