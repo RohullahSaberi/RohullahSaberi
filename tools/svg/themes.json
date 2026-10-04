@@ -1,0 +1,24 @@
+{
+  "light": {
+    "bg": "#eef4fb",
+    "panel": "#f8fbff",
+    "ink": "#17263a",
+    "muted": "#4b6078",
+    "line": "#cbd9e8",
+    "blue": "#285f9e",
+    "soft": "#dce9f8",
+    "cyan": "#387f91",
+    "warm": "#b85216"
+  },
+  "dark": {
+    "bg": "#152235",
+    "panel": "#1d3049",
+    "ink": "#edf5ff",
+    "muted": "#afbed0",
+    "line": "#496581",
+    "blue": "#77afea",
+    "soft": "#223d5c",
+    "cyan": "#88c0d0",
+    "warm": "#ffb077"
+  }
+}
