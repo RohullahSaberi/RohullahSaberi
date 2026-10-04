@@ -35,8 +35,8 @@
 <path d="M236 149H364" class="packet motion" pathLength="100" style="animation-delay:-1.35s" />
   <path d="M530 149H556V274H153V327" class="connector" />
 <path d="M530 149H556V274H153V327" class="packet motion" pathLength="100" style="animation-delay:-3.2s" />
-  <path d="M236 391H405" class="connector" />
-<path d="M236 391H405" class="packet motion" pathLength="100" style="animation-delay:-5s" />
+  <path d="M236 391H384" class="connector" />
+<path d="M236 391H384" class="packet motion" pathLength="100" style="animation-delay:-5s" />
   <g transform="translate(26 18) scale(1)" id="code">
     <rect x="44" y="67" width="166" height="128" rx="12" class="panel" />
     <rect x="54" y="77" width="146" height="24" rx="7" class="soft" />
@@ -77,11 +77,11 @@
     <rect x="748" y="115" width="14" height="65" rx="4" class="bar motion" style="animation-delay:-2.2s" />
     <rect x="773" y="130" width="14" height="50" rx="4" class="bar motion" style="animation-delay:-3.3000000000000003s" />
   </g>
-  <g transform="translate(-561 240) scale(1)" id="database">
-    <rect x="966" y="108" width="84" height="64" rx="0" class="panel" />
-    <ellipse cx="1008" cy="172" rx="42" ry="12" class="panel" />
-    <path d="M966 130c0 16 84 16 84 0M966 151c0 16 84 16 84 0" class="rule" />
-    <ellipse cx="1008" cy="108" rx="42" ry="12" class="soft outlined" />
+  <g transform="translate(-561 262) scale(1)" id="database">
+    <rect x="945" y="83" width="126" height="96" rx="0" class="panel" />
+    <ellipse cx="1008" cy="179" rx="63" ry="18" class="panel" />
+    <path d="M945 116c0 24 126 24 126 0M945 147.5c0 24 126 24 126 0" class="rule" />
+    <ellipse cx="1008" cy="83" rx="63" ry="18" class="soft outlined" />
   </g>
   <text x="153" y="249" font-size="26" text-anchor="middle" class="ink" >C# / .NET</text>
   <text x="447" y="249" font-size="26" text-anchor="middle" class="ink" >ASP.NET Core</text>

@@ -75,17 +75,17 @@
   </g>
   <text x="721" y="232" text-anchor="middle" font-size="17" class="ink" font-weight="700">WPF</text>
   <g id="database">
-    <rect x="966" y="108" width="84" height="64" rx="0" class="panel" />
-    <ellipse cx="1008" cy="172" rx="42" ry="12" class="panel" />
-    <path d="M966 130c0 16 84 16 84 0M966 151c0 16 84 16 84 0" class="rule" />
-    <ellipse cx="1008" cy="108" rx="42" ry="12" class="soft outlined" />
+    <rect x="945" y="83" width="126" height="96" rx="0" class="panel" />
+    <ellipse cx="1008" cy="179" rx="63" ry="18" class="panel" />
+    <path d="M945 116c0 24 126 24 126 0M945 147.5c0 24 126 24 126 0" class="rule" />
+    <ellipse cx="1008" cy="83" rx="63" ry="18" class="soft outlined" />
   </g>
   <text x="1008" y="232" text-anchor="middle" font-size="17" class="ink" font-weight="700">SQL Server / MySQL</text>
   <path d="M210 130H342" class="connector" />
   <path d="M210 130H342" class="packet motion" pathLength="100" style="animation-delay:-1.35s" />
   <path d="M508 130H638" class="connector" />
   <path d="M508 130H638" class="packet motion" pathLength="100" style="animation-delay:-3.20625s" />
-  <path d="M804 130H966" class="connector" />
-  <path d="M804 130H966" class="packet motion" pathLength="100" style="animation-delay:-5.05625s" />
+  <path d="M804 130H945" class="connector" />
+  <path d="M804 130H945" class="packet motion" pathLength="100" style="animation-delay:-5.05625s" />
   <circle cx="1119" cy="70" r="6" class="cyan pulse motion" />
 </svg>
