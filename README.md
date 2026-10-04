@@ -4,6 +4,8 @@
 
 <a href="https://rohullah.ariasoft.co/">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/intro-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/intro-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/intro-light.svg">
     <img alt="Illustration of connected web and desktop applications" src="assets/intro-light.svg" width="1200">
@@ -19,6 +21,8 @@ I'm a co-founder of [Aria Soft](https://ariasoft.co/) and a **Software Engineer 
 ## What I work with
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/workflow-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/workflow-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/workflow-light.svg">
   <img alt="C# and .NET connected to ASP.NET Core web applications, WPF desktop applications, and relational databases" src="assets/workflow-light.svg" width="1200">
@@ -41,6 +45,8 @@ Expand a project to see its illustration, details, and case study.
 
 <a href="https://rohullah.ariasoft.co/projects/aria-omr/">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/aria-omr-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/aria-omr-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/aria-omr-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/aria-omr-light.svg">
     <img alt="Answer sheets pass through scanning and processing into examination reports" src="assets/aria-omr-light.svg" width="1200">
@@ -60,6 +66,8 @@ Examination software for reading multiple-choice answer sheets, calculating resu
 
 <a href="https://rohullah.ariasoft.co/projects/ecms/">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ecms-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/ecms-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/ecms-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/ecms-light.svg">
     <img alt="Educational branches, student records, and financial records connected to a management dashboard" src="assets/ecms-light.svg" width="1200">
@@ -79,6 +87,8 @@ Desktop software for managing students, classes, finances, staff, and attendance
 
 <a href="https://rohullah.ariasoft.co/projects/hospital-management/">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hms-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/hms-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="assets/hms-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hms-light.svg">
     <img alt="Hospital administration connected to employee records and controlled access" src="assets/hms-light.svg" width="1200">
