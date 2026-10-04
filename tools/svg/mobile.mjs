@@ -51,8 +51,8 @@ export function mobileScene(name, scene) {
         text(32, 139, copy[1], 46, 'start', 'font-weight="700"'),
         text(32, 197, copy[2], 46, 'start', 'font-weight="700"'),
         text(32, 244, copy[3], 24, 'start', 'letter-spacing="1"'),
-        connect('M140 365H158Q177 365 177 385V427H194'),
-        connect('M452 464H479V385', -4),
+        connect('M132 365H158Q177 365 177 385V427H202'),
+        connect('M444 464H479V376.59', -4),
         place(scene, 'database', 48, 329, 502, 68),
         place(scene, 'laptop', 202, 389, 601, 177),
         place(scene, 'web', 394, 260, 891, 51, 0.89),
@@ -62,9 +62,9 @@ export function mobileScene(name, scene) {
     case 'workflow':
       return canvas(scene, 560, [
         text(32, 40, 'Connected applications', 26, 'start'),
-        connect('M242 149H352', -1.35),
-        connect('M538 149H556V274H153V319', -3.2),
-        connect('M242 385H389', -5),
+        connect('M236 149H364', -1.35),
+        connect('M530 149H556V274H153V327', -3.2),
+        connect('M236 391H405', -5),
         place(scene, 'code', 70, 85, 44, 67),
         place(scene, 'web', 364, 85, 342, 67),
         place(scene, 'desktop', 70, 327, 638, 67),
@@ -77,8 +77,8 @@ export function mobileScene(name, scene) {
     case 'aria-omr':
       return canvas(scene, 300, [
         '<circle cx="99" cy="138" r="105" class="halo" />',
-        connect('M145 131H200'),
-        connect('M347 131H404', -3),
+        connect('M137.7024 131H206'),
+        connect('M341 131H412', -3),
         place(scene, 'answer-sheet', 24, 54, 45, 34, 0.94),
         place(scene, 'scanner', 206, 85, 313, 67),
         place(scene, 'report', 412, 48, 583, 38, 0.8),
@@ -90,7 +90,7 @@ export function mobileScene(name, scene) {
     case 'ecms':
       return canvas(scene, 500, [
         '<ellipse cx="300" cy="163" rx="222" ry="135" class="halo" />',
-        connect('M300 216V278H100.5V302'),
+        connect('M300 216V278H100.5V310'),
         connect('M300 278H289.5V315', -3),
         connect('M300 278H498.5V300', -7),
         place(scene, 'dashboard', 159, 58, 429, 49),
@@ -105,8 +105,8 @@ export function mobileScene(name, scene) {
     case 'hms':
       return canvas(scene, 290, [
         '<ellipse cx="100" cy="132" rx="92" ry="100" class="halo" />',
-        connect('M183 127H217'),
-        connect('M416 127H455', -5),
+        connect('M172.5 127H229'),
+        connect('M404.2 127H467', -5),
         place(scene, 'hospital', 24, 70, 94, 65, 0.75),
         place(scene, 'employees', 229, 45, 509, 42, 0.8),
         place(scene, 'access', 467, 66, 955, 67, 0.85),

@@ -78,10 +78,10 @@
       <ellipse cx="544" cy="68" rx="42" ry="12" class="soft outlined" />
     </g>
   </g>
-  <path d="M588 104H617Q638 104 638 130V168" class="connector" />
-  <path d="M588 104H617Q638 104 638 130V168" class="packet motion" pathLength="100" style="animation-delay:0s" />
-  <path d="M851 229H871Q888 229 888 210V187" class="connector" />
-  <path d="M851 229H871Q888 229 888 210V187" class="packet motion" pathLength="100" style="animation-delay:-4s" />
+  <path d="M586 104H617Q638 104 638 130V177" class="connector" />
+  <path d="M586 104H617Q638 104 638 130V177" class="packet motion" pathLength="100" style="animation-delay:0s" />
+  <path d="M843 229H871Q950 229 950 210V182" class="connector" />
+  <path d="M843 229H871Q950 229 950 210V182" class="packet motion" pathLength="100" style="animation-delay:-4s" />
   <circle cx="921" cy="70" r="4" class="warm pulse motion" />
   <path d="M1130 90v16M1122 98h16" class="spark motion" />
 </svg>

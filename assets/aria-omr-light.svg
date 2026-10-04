@@ -9,7 +9,7 @@
     .panel{fill:var(--panel);stroke:var(--line);stroke-width:1.5}.soft{fill:var(--soft)}
     .outlined{stroke:var(--line);stroke-width:1.5}.line,.rule,.connector,.packet,.wave,.check,.shield,.spark{fill:none;stroke-linecap:round;stroke-linejoin:round}
     .line{stroke:var(--blue);stroke-width:2.3}.rule{stroke:var(--line);stroke-width:2}
-    .connector{stroke:var(--line);stroke-width:2;stroke-dasharray:3 9}
+    .connector{stroke:var(--line);stroke-width:2}
     .packet{stroke:var(--cyan);stroke-width:3;stroke-dasharray:12 88;animation:travel 12s linear infinite}
     .ink{fill:var(--ink)}.muted{fill:var(--muted)}.accent{fill:var(--blue)}.blue-fill,.dot,.bar{fill:var(--blue)}
     .cyan{fill:var(--cyan)}.warm{fill:var(--warm)}.on-blue{fill:var(--panel)}
@@ -56,8 +56,8 @@
       </g>
     </g>
   </g>
-  <path d="M184 116H291" class="connector" />
-  <path d="M184 116H291" class="packet motion" pathLength="100" style="animation-delay:0s" />
+  <path d="M165.96 116H313" class="connector" />
+  <path d="M165.96 116H313" class="packet motion" pathLength="100" style="animation-delay:0s" />
   <g id="scanner">
     <g>
       <rect x="313" y="67" width="135" height="93" rx="17" class="panel" />
@@ -66,8 +66,8 @@
       <circle cx="424" cy="145" r="4" class="warm pulse motion" />
     </g>
   </g>
-  <path d="M463 116H558" class="connector" />
-  <path d="M463 116H558" class="packet motion" pathLength="100" style="animation-delay:-3s" />
+  <path d="M448 116H583" class="connector" />
+  <path d="M448 116H583" class="packet motion" pathLength="100" style="animation-delay:-3s" />
   <g id="report">
     <rect x="583" y="38" width="205" height="148" rx="12" class="panel" />
     <rect x="593" y="48" width="185" height="24" rx="7" class="soft" />

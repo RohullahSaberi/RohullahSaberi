@@ -3,7 +3,7 @@ svg{font-family:Arial,Helvetica,sans-serif}
     .panel{fill:var(--panel);stroke:var(--line);stroke-width:1.5}.soft{fill:var(--soft)}
     .outlined{stroke:var(--line);stroke-width:1.5}.line,.rule,.connector,.packet,.wave,.check,.shield,.spark{fill:none;stroke-linecap:round;stroke-linejoin:round}
     .line{stroke:var(--blue);stroke-width:2.3}.rule{stroke:var(--line);stroke-width:2}
-    .connector{stroke:var(--line);stroke-width:2;stroke-dasharray:3 9}
+    .connector{stroke:var(--line);stroke-width:2}
     .packet{stroke:var(--cyan);stroke-width:3;stroke-dasharray:12 88;animation:travel 12s linear infinite}
     .ink{fill:var(--ink)}.muted{fill:var(--muted)}.accent{fill:var(--blue)}.blue-fill,.dot,.bar{fill:var(--blue)}
     .cyan{fill:var(--cyan)}.warm{fill:var(--warm)}.on-blue{fill:var(--panel)}

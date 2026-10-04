@@ -29,8 +29,8 @@
       </g>
     </g>
   </g>
-  <path d="M184 116H291" class="connector" />
-  <path d="M184 116H291" class="packet motion" pathLength="100" style="animation-delay:0s" />
+  <path d="M165.96 116H313" class="connector" />
+  <path d="M165.96 116H313" class="packet motion" pathLength="100" style="animation-delay:0s" />
   <g id="scanner">
     <g>
       <rect x="313" y="67" width="135" height="93" rx="17" class="panel" />
@@ -39,8 +39,8 @@
       <circle cx="424" cy="145" r="4" class="warm pulse motion" />
     </g>
   </g>
-  <path d="M463 116H558" class="connector" />
-  <path d="M463 116H558" class="packet motion" pathLength="100" style="animation-delay:-3s" />
+  <path d="M448 116H583" class="connector" />
+  <path d="M448 116H583" class="packet motion" pathLength="100" style="animation-delay:-3s" />
   <g id="report">
     <rect x="583" y="38" width="205" height="148" rx="12" class="panel" />
     <rect x="593" y="48" width="185" height="24" rx="7" class="soft" />

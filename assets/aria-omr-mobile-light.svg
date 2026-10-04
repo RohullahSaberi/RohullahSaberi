@@ -9,7 +9,7 @@
     .panel{fill:var(--panel);stroke:var(--line);stroke-width:1.5}.soft{fill:var(--soft)}
     .outlined{stroke:var(--line);stroke-width:1.5}.line,.rule,.connector,.packet,.wave,.check,.shield,.spark{fill:none;stroke-linecap:round;stroke-linejoin:round}
     .line{stroke:var(--blue);stroke-width:2.3}.rule{stroke:var(--line);stroke-width:2}
-    .connector{stroke:var(--line);stroke-width:2;stroke-dasharray:3 9}
+    .connector{stroke:var(--line);stroke-width:2}
     .packet{stroke:var(--cyan);stroke-width:3;stroke-dasharray:12 88;animation:travel 12s linear infinite}
     .ink{fill:var(--ink)}.muted{fill:var(--muted)}.accent{fill:var(--blue)}.blue-fill,.dot,.bar{fill:var(--blue)}
     .cyan{fill:var(--cyan)}.warm{fill:var(--warm)}.on-blue{fill:var(--panel)}
@@ -31,10 +31,10 @@
   </style>
   <rect x="1" y="1" width="598" height="298" rx="22" class="canvas" />
   <circle cx="99" cy="138" r="105" class="halo" />
-  <path d="M145 131H200" class="connector" />
-<path d="M145 131H200" class="packet motion" pathLength="100" style="animation-delay:0s" />
-  <path d="M347 131H404" class="connector" />
-<path d="M347 131H404" class="packet motion" pathLength="100" style="animation-delay:-3s" />
+  <path d="M137.7024 131H206" class="connector" />
+<path d="M137.7024 131H206" class="packet motion" pathLength="100" style="animation-delay:0s" />
+  <path d="M341 131H412" class="connector" />
+<path d="M341 131H412" class="packet motion" pathLength="100" style="animation-delay:-3s" />
   <g transform="translate(-18.3 22.04) scale(0.94)" id="answer-sheet">
     <g transform="translate(45 34) scale(1.12)">
       <rect x="0" y="0" width="108" height="144" rx="12" class="panel" />

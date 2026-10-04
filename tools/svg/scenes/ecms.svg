@@ -4,12 +4,12 @@
   <!-- SHARED_STYLE -->
   <rect x="1" y="1" width="1198" height="248" rx="22" class="canvas" />
   <ellipse cx="562" cy="124" rx="260" ry="108" class="halo" />
-  <path d="M205 124H422" class="connector" />
-  <path d="M205 124H422" class="packet motion" pathLength="100" style="animation-delay:0s" />
-  <path d="M718 124H944" class="connector" />
-  <path d="M718 124H944" class="packet motion" pathLength="100" style="animation-delay:-3s" />
-  <path d="M560 50V26H813V57" class="connector" />
-  <path d="M560 50V26H813V57" class="packet motion" pathLength="100" style="animation-delay:-7s" />
+  <path d="M199 124H429" class="connector" />
+  <path d="M199 124H429" class="packet motion" pathLength="100" style="animation-delay:0s" />
+  <path d="M711 156H950" class="connector" />
+  <path d="M711 156H950" class="packet motion" pathLength="100" style="animation-delay:-3s" />
+  <path d="M560 49V26H822.5V49" class="connector" />
+  <path d="M560 49V26H822.5V49" class="packet motion" pathLength="100" style="animation-delay:-7s" />
   <g id="branches">
     <g>
       <rect x="68" y="64" width="131" height="112" rx="12" class="panel" />

@@ -9,7 +9,7 @@
     .panel{fill:var(--panel);stroke:var(--line);stroke-width:1.5}.soft{fill:var(--soft)}
     .outlined{stroke:var(--line);stroke-width:1.5}.line,.rule,.connector,.packet,.wave,.check,.shield,.spark{fill:none;stroke-linecap:round;stroke-linejoin:round}
     .line{stroke:var(--blue);stroke-width:2.3}.rule{stroke:var(--line);stroke-width:2}
-    .connector{stroke:var(--line);stroke-width:2;stroke-dasharray:3 9}
+    .connector{stroke:var(--line);stroke-width:2}
     .packet{stroke:var(--cyan);stroke-width:3;stroke-dasharray:12 88;animation:travel 12s linear infinite}
     .ink{fill:var(--ink)}.muted{fill:var(--muted)}.accent{fill:var(--blue)}.blue-fill,.dot,.bar{fill:var(--blue)}
     .cyan{fill:var(--cyan)}.warm{fill:var(--warm)}.on-blue{fill:var(--panel)}
@@ -31,10 +31,10 @@
   </style>
   <rect x="1" y="1" width="598" height="288" rx="22" class="canvas" />
   <ellipse cx="100" cy="132" rx="92" ry="100" class="halo" />
-  <path d="M183 127H217" class="connector" />
-<path d="M183 127H217" class="packet motion" pathLength="100" style="animation-delay:0s" />
-  <path d="M416 127H455" class="connector" />
-<path d="M416 127H455" class="packet motion" pathLength="100" style="animation-delay:-5s" />
+  <path d="M172.5 127H229" class="connector" />
+<path d="M172.5 127H229" class="packet motion" pathLength="100" style="animation-delay:0s" />
+  <path d="M404.2 127H467" class="connector" />
+<path d="M404.2 127H467" class="packet motion" pathLength="100" style="animation-delay:-5s" />
   <g transform="translate(-46.5 21.25) scale(0.75)" id="hospital">
     <rect x="94" y="65" width="198" height="121" rx="12" class="panel" />
     <path d="M85 185h219M169 184v-40h44v40M119 95h18M119 118h18M249 95h18M249 118h18" class="line" />

@@ -9,7 +9,7 @@
     .panel{fill:var(--panel);stroke:var(--line);stroke-width:1.5}.soft{fill:var(--soft)}
     .outlined{stroke:var(--line);stroke-width:1.5}.line,.rule,.connector,.packet,.wave,.check,.shield,.spark{fill:none;stroke-linecap:round;stroke-linejoin:round}
     .line{stroke:var(--blue);stroke-width:2.3}.rule{stroke:var(--line);stroke-width:2}
-    .connector{stroke:var(--line);stroke-width:2;stroke-dasharray:3 9}
+    .connector{stroke:var(--line);stroke-width:2}
     .packet{stroke:var(--cyan);stroke-width:3;stroke-dasharray:12 88;animation:travel 12s linear infinite}
     .ink{fill:var(--ink)}.muted{fill:var(--muted)}.accent{fill:var(--blue)}.blue-fill,.dot,.bar{fill:var(--blue)}
     .cyan{fill:var(--cyan)}.warm{fill:var(--warm)}.on-blue{fill:var(--panel)}
@@ -81,11 +81,11 @@
     <ellipse cx="1008" cy="108" rx="42" ry="12" class="soft outlined" />
   </g>
   <text x="1008" y="232" text-anchor="middle" font-size="17" class="ink" font-weight="700">SQL Server / MySQL</text>
-  <path d="M216 130h112" class="connector" />
-  <path d="M216 130h112" class="packet motion" pathLength="100" style="animation-delay:-1.35s" />
-  <path d="M513 130h112" class="connector" />
-  <path d="M513 130h112" class="packet motion" pathLength="100" style="animation-delay:-3.20625s" />
-  <path d="M809 130h112" class="connector" />
-  <path d="M809 130h112" class="packet motion" pathLength="100" style="animation-delay:-5.05625s" />
+  <path d="M210 130H342" class="connector" />
+  <path d="M210 130H342" class="packet motion" pathLength="100" style="animation-delay:-1.35s" />
+  <path d="M508 130H638" class="connector" />
+  <path d="M508 130H638" class="packet motion" pathLength="100" style="animation-delay:-3.20625s" />
+  <path d="M804 130H966" class="connector" />
+  <path d="M804 130H966" class="packet motion" pathLength="100" style="animation-delay:-5.05625s" />
   <circle cx="1119" cy="70" r="6" class="cyan pulse motion" />
 </svg>

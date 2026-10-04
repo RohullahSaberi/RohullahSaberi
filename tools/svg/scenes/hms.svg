@@ -10,10 +10,10 @@
     <rect x="170" y="76" width="43" height="43" rx="9" class="soft" />
     <path d="M191 87v22M180 98h22" class="line" />
   </g>
-  <path d="M314 127H491" class="connector" />
-  <path d="M314 127H491" class="packet motion" pathLength="100" style="animation-delay:0s" />
-  <path d="M741 127H934" class="connector" />
-  <path d="M741 127H934" class="packet motion" pathLength="100" style="animation-delay:-5s" />
+  <path d="M292 127H509" class="connector" />
+  <path d="M292 127H509" class="packet motion" pathLength="100" style="animation-delay:0s" />
+  <path d="M728 127H955" class="connector" />
+  <path d="M728 127H955" class="packet motion" pathLength="100" style="animation-delay:-5s" />
   <g id="employees">
     <g>
       <rect x="509" y="42" width="219" height="157" rx="12" class="panel" />

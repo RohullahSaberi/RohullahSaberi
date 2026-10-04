@@ -17,5 +17,6 @@ The README selects the compact assets at viewport widths of 600px or less.
 Keep the mobile sources ahead of the desktop sources in each `<picture>`.
 Review both themes, narrow and wide viewports, and reduced motion after edits.
 
-Connected components remain stationary so their paths keep a consistent gap.
+Connected components remain stationary. Base wires are continuous and their
+endpoints touch component edges; the animated packets use those same paths.
 Motion is retained for data packets, chart bars, scanners, and decorative details.

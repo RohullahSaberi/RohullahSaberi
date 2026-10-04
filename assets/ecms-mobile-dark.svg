@@ -9,7 +9,7 @@
     .panel{fill:var(--panel);stroke:var(--line);stroke-width:1.5}.soft{fill:var(--soft)}
     .outlined{stroke:var(--line);stroke-width:1.5}.line,.rule,.connector,.packet,.wave,.check,.shield,.spark{fill:none;stroke-linecap:round;stroke-linejoin:round}
     .line{stroke:var(--blue);stroke-width:2.3}.rule{stroke:var(--line);stroke-width:2}
-    .connector{stroke:var(--line);stroke-width:2;stroke-dasharray:3 9}
+    .connector{stroke:var(--line);stroke-width:2}
     .packet{stroke:var(--cyan);stroke-width:3;stroke-dasharray:12 88;animation:travel 12s linear infinite}
     .ink{fill:var(--ink)}.muted{fill:var(--muted)}.accent{fill:var(--blue)}.blue-fill,.dot,.bar{fill:var(--blue)}
     .cyan{fill:var(--cyan)}.warm{fill:var(--warm)}.on-blue{fill:var(--panel)}
@@ -31,8 +31,8 @@
   </style>
   <rect x="1" y="1" width="598" height="498" rx="22" class="canvas" />
   <ellipse cx="300" cy="163" rx="222" ry="135" class="halo" />
-  <path d="M300 216V278H100.5V302" class="connector" />
-<path d="M300 216V278H100.5V302" class="packet motion" pathLength="100" style="animation-delay:0s" />
+  <path d="M300 216V278H100.5V310" class="connector" />
+<path d="M300 216V278H100.5V310" class="packet motion" pathLength="100" style="animation-delay:0s" />
   <path d="M300 278H289.5V315" class="connector" />
 <path d="M300 278H289.5V315" class="packet motion" pathLength="100" style="animation-delay:-3s" />
   <path d="M300 278H498.5V300" class="connector" />
