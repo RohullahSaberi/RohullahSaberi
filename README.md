@@ -113,4 +113,6 @@ I also worked with the team on [Kabul Code Lab's website](https://rohullah.arias
 
 ## Find me online
 
-[Portfolio](https://rohullah.ariasoft.co/) · [Public CV](https://rohullah.ariasoft.co/assets/rohullah-saberi-resume.pdf) · [Telegram](https://t.me/rohullahsaberi) · [Facebook](https://www.facebook.com/ROHULLAHSABERl)
+[Portfolio](https://rohullah.ariasoft.co/) · [Public CV](https://rohullah.ariasoft.co/assets/rohullah-saberi-resume.pdf)
+
+[LinkedIn](https://www.linkedin.com/in/rohullahsaberi/) · [X](https://x.com/rohullahsaberi) · [Facebook](https://www.facebook.com/rohullahsaberidev) · [Telegram](https://t.me/rohullahsaberi) · [Email](mailto:rohullahsaabiry@gmail.com)
